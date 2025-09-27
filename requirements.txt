@@ -1,0 +1,18 @@
+ultralytics         # YOLOv8
+torch               # pick correct install for your CUDA; visit pytorch.org if needed
+opencv-python
+insightface
+onnxruntime         # optional (if using onnx models)
+numpy
+pandas
+scikit-learn        # for cosine similarity utilities
+deep_sort_realtime  # optional; or integrate ByteTrack repo
+faiss-cpu           # optional for fast nearest-neighbor (or faiss-gpu)
+tqdm
+torchvision
+Pillow
+sqlalchemy
+psycopg2-binary
+filterpy
+scipy
+python-dotenv

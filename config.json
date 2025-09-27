@@ -1,0 +1,11 @@
+{
+  "frame_skip": 5,
+  "confidence_threshold": 0.45,
+  "match_threshold": 0.60,
+  "db_path": "db/visitors.db",
+  "logs_dir": "logs",
+  "models_dir": "models",
+  "log_path": "events.log",
+  "track_disappeared_frames": 30,
+  "distance_threshold": 80
+}

@@ -12,7 +12,14 @@ class Detector:
         self.conf = cfg.get('confidence_threshold', 0.45)
         model_path = model_path or f"{cfg.get('models_dir','models')}/yolov8-face.pt"
         # create model object (will load weights)
-        self.model = YOLO(model_path)
+        try:
+    # Try to load local face model
+            self.model = YOLO(model_path)
+        except Exception:
+    # Fall back to general YOLOv8n if face model not found
+            print(f"⚠️ Face model {model_path} not found. Falling back to yolov8n.pt")
+            self.model = YOLO("yolov8n.pt")  # auto-downloads if missing
+
 
     def detect(self, frame):
         """

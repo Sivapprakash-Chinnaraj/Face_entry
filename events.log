@@ -1,0 +1,89 @@
+2025-09-28 04:46:36,795 - INFO - System started
+2025-09-28 04:48:22,382 - INFO - ENTRY - face_id=1 path=logs\entrys\2025-09-28\entry_1_2025-09-28T04-48-22.jpg
+2025-09-28 04:48:22,382 - INFO - Registered new face 1
+2025-09-28 04:48:25,659 - INFO - ENTRY - face_id=2 path=logs\entrys\2025-09-28\entry_2_2025-09-28T04-48-25.jpg
+2025-09-28 04:48:25,659 - INFO - Registered new face 2
+2025-09-28 04:49:54,139 - INFO - ENTRY - face_id=3 path=logs\entrys\2025-09-28\entry_3_2025-09-28T04-49-54.jpg
+2025-09-28 04:49:54,139 - INFO - Registered new face 3
+2025-09-28 04:50:11,130 - INFO - ENTRY - face_id=4 path=logs\entrys\2025-09-28\entry_4_2025-09-28T04-50-11.jpg
+2025-09-28 04:50:11,130 - INFO - Registered new face 4
+2025-09-28 04:50:19,318 - INFO - Recognized existing face 4 (sim=0.79)
+2025-09-28 04:50:43,509 - INFO - Recognized existing face 4 (sim=0.70)
+2025-09-28 04:51:00,428 - INFO - Recognized existing face 4 (sim=0.72)
+2025-09-28 04:51:23,282 - INFO - Recognized existing face 4 (sim=0.70)
+2025-09-28 04:51:40,274 - INFO - Recognized existing face 4 (sim=0.64)
+2025-09-28 04:51:48,595 - INFO - Recognized existing face 4 (sim=0.65)
+2025-09-28 04:51:58,859 - INFO - Recognized existing face 4 (sim=0.63)
+2025-09-28 04:52:16,817 - INFO - ENTRY - face_id=5 path=logs\entrys\2025-09-28\entry_5_2025-09-28T04-52-16.jpg
+2025-09-28 04:52:16,817 - INFO - Registered new face 5
+2025-09-28 04:52:29,958 - INFO - ENTRY - face_id=6 path=logs\entrys\2025-09-28\entry_6_2025-09-28T04-52-29.jpg
+2025-09-28 04:52:29,958 - INFO - Registered new face 6
+2025-09-28 04:53:18,607 - INFO - EXIT - face_id=1 path=logs\exits\2025-09-28\exit_1_2025-09-28T04-53-18.jpg
+2025-09-28 04:53:30,623 - INFO - EXIT - face_id=3 path=logs\exits\2025-09-28\exit_3_2025-09-28T04-53-30.jpg
+2025-09-28 04:53:30,626 - INFO - EXIT - face_id=4 path=logs\exits\2025-09-28\exit_4_2025-09-28T04-53-30.jpg
+2025-09-28 04:53:43,389 - INFO - EXIT - face_id=4 path=logs\exits\2025-09-28\exit_4_2025-09-28T04-53-43.jpg
+2025-09-28 04:53:43,392 - INFO - EXIT - face_id=4 path=logs\exits\2025-09-28\exit_4_2025-09-28T04-53-43.jpg
+2025-09-28 04:54:00,796 - INFO - EXIT - face_id=4 path=logs\exits\2025-09-28\exit_4_2025-09-28T04-54-00.jpg
+2025-09-28 04:54:07,353 - INFO - EXIT - face_id=4 path=logs\exits\2025-09-28\exit_4_2025-09-28T04-54-07.jpg
+2025-09-28 04:54:10,159 - INFO - EXIT - face_id=4 path=logs\exits\2025-09-28\exit_4_2025-09-28T04-54-10.jpg
+2025-09-28 04:54:12,931 - INFO - EXIT - face_id=4 path=logs\exits\2025-09-28\exit_4_2025-09-28T04-54-12.jpg
+2025-09-28 04:54:15,110 - INFO - EXIT - face_id=4 path=logs\exits\2025-09-28\exit_4_2025-09-28T04-54-15.jpg
+2025-09-28 04:54:16,925 - INFO - EXIT - face_id=5 path=logs\exits\2025-09-28\exit_5_2025-09-28T04-54-16.jpg
+2025-09-28 04:54:18,246 - INFO - EXIT - face_id=2 path=logs\exits\2025-09-28\exit_2_2025-09-28T04-54-18.jpg
+2025-09-28 04:54:29,259 - INFO - ENTRY - face_id=7 path=logs\entrys\2025-09-28\entry_7_2025-09-28T04-54-29.jpg
+2025-09-28 04:54:29,260 - INFO - Registered new face 7
+2025-09-28 04:54:47,155 - INFO - EXIT - face_id=6 path=logs\exits\2025-09-28\exit_6_2025-09-28T04-54-47.jpg
+2025-09-28 04:54:54,796 - INFO - ENTRY - face_id=8 path=logs\entrys\2025-09-28\entry_8_2025-09-28T04-54-54.jpg
+2025-09-28 04:54:54,797 - INFO - Registered new face 8
+2025-09-28 04:55:13,076 - INFO - ENTRY - face_id=9 path=logs\entrys\2025-09-28\entry_9_2025-09-28T04-55-13.jpg
+2025-09-28 04:55:13,076 - INFO - Registered new face 9
+2025-09-28 04:55:27,205 - INFO - Recognized existing face 9 (sim=0.85)
+2025-09-28 04:55:37,967 - INFO - ENTRY - face_id=10 path=logs\entrys\2025-09-28\entry_10_2025-09-28T04-55-37.jpg
+2025-09-28 04:55:37,967 - INFO - Registered new face 10
+2025-09-28 04:55:45,687 - INFO - ENTRY - face_id=11 path=logs\entrys\2025-09-28\entry_11_2025-09-28T04-55-45.jpg
+2025-09-28 04:55:45,687 - INFO - Registered new face 11
+2025-09-28 04:55:48,270 - INFO - ENTRY - face_id=12 path=logs\entrys\2025-09-28\entry_12_2025-09-28T04-55-48.jpg
+2025-09-28 04:55:48,270 - INFO - Registered new face 12
+2025-09-28 04:56:03,271 - INFO - ENTRY - face_id=13 path=logs\entrys\2025-09-28\entry_13_2025-09-28T04-56-03.jpg
+2025-09-28 04:56:03,271 - INFO - Registered new face 13
+2025-09-28 04:56:38,427 - INFO - ENTRY - face_id=14 path=logs\entrys\2025-09-28\entry_14_2025-09-28T04-56-38.jpg
+2025-09-28 04:56:38,427 - INFO - Registered new face 14
+2025-09-28 04:56:40,797 - INFO - Recognized existing face 14 (sim=0.91)
+2025-09-28 04:57:29,539 - INFO - ENTRY - face_id=15 path=logs\entrys\2025-09-28\entry_15_2025-09-28T04-57-29.jpg
+2025-09-28 04:57:29,539 - INFO - Registered new face 15
+2025-09-28 04:57:39,313 - INFO - ENTRY - face_id=16 path=logs\entrys\2025-09-28\entry_16_2025-09-28T04-57-39.jpg
+2025-09-28 04:57:39,313 - INFO - Registered new face 16
+2025-09-28 05:00:58,797 - INFO - ENTRY - face_id=17 path=logs\entrys\2025-09-28\entry_17_2025-09-28T05-00-58.jpg
+2025-09-28 05:00:58,797 - INFO - Registered new face 17
+2025-09-28 05:01:20,832 - INFO - ENTRY - face_id=18 path=logs\entrys\2025-09-28\entry_18_2025-09-28T05-01-20.jpg
+2025-09-28 05:01:20,832 - INFO - Registered new face 18
+2025-09-28 05:01:46,950 - INFO - ENTRY - face_id=19 path=logs\entrys\2025-09-28\entry_19_2025-09-28T05-01-46.jpg
+2025-09-28 05:01:46,950 - INFO - Registered new face 19
+2025-09-28 05:02:06,370 - INFO - Recognized existing face 17 (sim=0.68)
+2025-09-28 05:02:26,436 - INFO - ENTRY - face_id=20 path=logs\entrys\2025-09-28\entry_20_2025-09-28T05-02-26.jpg
+2025-09-28 05:02:26,436 - INFO - Registered new face 20
+2025-09-28 05:02:46,876 - INFO - Recognized existing face 20 (sim=0.61)
+2025-09-28 05:02:50,688 - INFO - ENTRY - face_id=21 path=logs\entrys\2025-09-28\entry_21_2025-09-28T05-02-50.jpg
+2025-09-28 05:02:50,688 - INFO - Registered new face 21
+2025-09-28 05:03:18,331 - INFO - Recognized existing face 18 (sim=0.70)
+2025-09-28 05:03:18,395 - INFO - System stopped
+2025-09-28 15:26:55,181 - INFO - Started processing Video Datasets\record_20250620_183903.mp4
+2025-09-28 15:26:58,098 - INFO - ENTRY - face_id=22 path=logs\entrys\2025-09-28\entry_22_2025-09-28T15-26-58.jpg
+2025-09-28 15:26:58,098 - INFO - Registered new face 22
+2025-09-28 15:27:00,649 - INFO - ENTRY - face_id=23 path=logs\entrys\2025-09-28\entry_23_2025-09-28T15-27-00.jpg
+2025-09-28 15:27:00,649 - INFO - Registered new face 23
+2025-09-28 15:27:11,403 - INFO - ENTRY - face_id=24 path=logs\entrys\2025-09-28\entry_24_2025-09-28T15-27-11.jpg
+2025-09-28 15:27:11,404 - INFO - Registered new face 24
+2025-09-28 19:32:37,516 - INFO - Started processing videos\record_20250620_183903.mp4
+2025-09-28 19:32:40,457 - INFO - Recognized existing face 22 (sim=1.00)
+2025-09-28 19:32:42,929 - INFO - Recognized existing face 23 (sim=1.00)
+2025-09-28 19:32:53,626 - INFO - Recognized existing face 24 (sim=1.00)
+2025-09-28 19:38:12,251 - INFO - ENTRY - face_id=25 path=logs\entrys\2025-09-28\entry_25_2025-09-28T19-38-12.jpg
+2025-09-28 19:38:12,251 - INFO - Registered new face 25
+2025-09-28 19:38:28,803 - INFO - EXIT - face_id=22 path=logs\exits\2025-09-28\exit_22_2025-09-28T19-38-28.jpg
+2025-09-28 19:39:35,613 - INFO - ENTRY - face_id=26 path=logs\entrys\2025-09-28\entry_26_2025-09-28T19-39-35.jpg
+2025-09-28 19:39:35,613 - INFO - Registered new face 26
+2025-09-28 19:40:33,449 - INFO - ENTRY - face_id=27 path=logs\entrys\2025-09-28\entry_27_2025-09-28T19-40-33.jpg
+2025-09-28 19:40:33,449 - INFO - Registered new face 27
+2025-09-28 19:41:28,830 - INFO - ENTRY - face_id=28 path=logs\entrys\2025-09-28\entry_28_2025-09-28T19-41-28.jpg
+2025-09-28 19:41:28,830 - INFO - Registered new face 28

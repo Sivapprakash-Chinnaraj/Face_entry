@@ -12,7 +12,7 @@ class Recognizer:
     """Wrapper around InsightFace FaceAnalysis to produce normalized embeddings."""
     def __init__(self):
         self.cfg = load_config()
-        self.threshold = self.cfg.get('match_threshold', 0.60)
+        self.threshold = self.cfg.get('match_threshold', 0.75)
         # FaceAnalysis will download and prepare models on first run (may take time)
         self.fa = app.FaceAnalysis()
         # use CPU by default (ctx_id=-1). If you have GPU, change to ctx_id=0
